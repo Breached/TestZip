@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<version>
+	<versionNumber>1.0.0.0</versionNumber>
+	<downloadUrl>http://www.somelink.com</downloadUrl>
+	<changelog>http://www.someotherlink.com</changelog>
+	<mandatory>false</mandatory>
+</version>
+<other>
+	<notice>This is the current notice</notice>
+</other>
